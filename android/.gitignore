@@ -12,3 +12,20 @@ GeneratedPluginRegistrant.java
 key.properties
 **/*.keystore
 **/*.jks
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+generated_plugin_registrant.dart
+
+# VSCode/Android Studio
+.idea/
+.vscode/
+*.iml
+
+# Misc
+*.log
